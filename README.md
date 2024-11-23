@@ -12,13 +12,16 @@ Features
 
 Architecture
 
-Data Ingestion: Collects data from social media APIs.
-Data Processing: Cleans, analyzes, and processes data using Python and NLP libraries.
-Data Storage: Utilizes Hadoop for distributed storage and processing.
-Visualization: Displays actionable insights using Power BI dashboards.
+1. Data Ingestion: Collects data from social media APIs.
+2. Data Processing: Cleans, analyzes, and processes data using Python and NLP libraries.
+3. Data Storage: Utilizes Hadoop for distributed storage and processing.
+4. Visualization: Displays actionable insights using Power BI dashboards.
+
 Technologies Used
-Programming Languages: Python (NLP libraries: NLTK, spaCy, or Hugging Face)
-Big Data: Hadoop (HDFS, MapReduce)
-Visualization: Power BI
+1. Programming Languages: Python (NLP libraries: NLTK, spaCy, or Hugging Face)
+1. Big Data: Hadoop (HDFS, MapReduce)
+1. Visualization: Power BI
+
 Libraries: Pandas, NumPy, Matplotlib
+
 Others: API integrations for social media data sources (e.g., Twitter, Reddit)
